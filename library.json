@@ -1,0 +1,23 @@
+{
+  "name": "sinh51_headers",
+  "version": "1.0.0",
+  "description": "The header files for SINH51 MCUs",
+  "keywords": "SINH51, header, include",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ssmcu/sinh51_headers.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Lipeng",
+      "email": "lipeng@sinhmicro.com",
+      "url": "https://www.sinhmicro.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://www.sinhmicro.com/",
+  "frameworks": "*",
+  "platforms": "sinhmicro_sinh51"
+}
